@@ -1,0 +1,19 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "description": "Matrix",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitterBaam/Matrix.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BitterBaam/Matrix/issues"
+  },
+  "homepage": "https://github.com/BitterBaam/Matrix#readme"
+}
